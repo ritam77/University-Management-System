@@ -91,6 +91,9 @@ Key Feature : Multiple login access(admin,teach,student)
 
 (Student can view principal notices)
 
+# Database 
+
+![Screenshot (154)](https://user-images.githubusercontent.com/67869419/225315235-a6aa3e5f-2177-43dc-a0cd-1d22e8b97bb0.png)
 
 
 
